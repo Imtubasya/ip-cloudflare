@@ -4,7 +4,7 @@ Cloudflare Bypass tools | I'am Tubasya
 <br>Is a tool for bypassing Cloudflare that you can use to get the master IP of site server.
 <h2>How to use</h2>                                                                                                   <h3>Linux :</h3>
 <br>Enter the below command in the terminal :
-<br><code>git clone                                                                                                   <br>cd cloudflare
+<br><code>git clone https://github.com/Imtubasya/ip-cloudflare                                                                                                  <br>cd cloudflare
 </code>
 <br>Install php :
 <br><code>apt-get install php</code>
